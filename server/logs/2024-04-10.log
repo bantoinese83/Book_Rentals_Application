@@ -1,0 +1,102 @@
+2024-04-10T19:14:09.359510-0400 - core.events - INFO - Connected to the database: bra_v1_db
+2024-04-10T19:14:09.360793-0400 - core.events - INFO - Tables in the database: ['users', 'profiles']
+2024-04-10T19:14:09.360877-0400 - core.events - INFO - Route: /openapi.json
+2024-04-10T19:14:09.360931-0400 - core.events - INFO - Route: /docs
+2024-04-10T19:14:09.360981-0400 - core.events - INFO - Route: /docs/oauth2-redirect
+2024-04-10T19:14:09.361028-0400 - core.events - INFO - Route: /redoc
+2024-04-10T19:14:09.361074-0400 - core.events - INFO - Route: /register
+2024-04-10T19:14:09.361121-0400 - core.events - INFO - Route: /token
+2024-04-10T19:14:09.361165-0400 - core.events - INFO - Route: /password_reset/{email}
+2024-04-10T19:14:09.361210-0400 - core.events - INFO - Route: /users/me/
+2024-04-10T19:14:09.361254-0400 - core.events - INFO - Route: /users/
+2024-04-10T19:14:09.361298-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:14:09.361343-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:14:09.361386-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:14:09.361430-0400 - core.events - INFO - Route: /users/current/
+2024-04-10T19:14:09.361474-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:14:09.361518-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:14:09.361561-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:14:09.361603-0400 - core.events - INFO - Route: /health
+2024-04-10T19:14:09.361651-0400 - core.events - INFO - Route: /
+2024-04-10T19:25:02.871214-0400 - core.events - INFO - Disconnected from the database.
+2024-04-10T19:25:06.023224-0400 - core.events - INFO - Connected to the database: bra_v1_db
+2024-04-10T19:25:06.024021-0400 - core.events - INFO - Tables in the database: ['users', 'profiles', 'renters', 'books', 'book_lists', 'rentals']
+2024-04-10T19:25:06.024098-0400 - core.events - INFO - Route: /openapi.json
+2024-04-10T19:25:06.024150-0400 - core.events - INFO - Route: /docs
+2024-04-10T19:25:06.024198-0400 - core.events - INFO - Route: /docs/oauth2-redirect
+2024-04-10T19:25:06.024245-0400 - core.events - INFO - Route: /redoc
+2024-04-10T19:25:06.024293-0400 - core.events - INFO - Route: /register
+2024-04-10T19:25:06.024338-0400 - core.events - INFO - Route: /token
+2024-04-10T19:25:06.024384-0400 - core.events - INFO - Route: /password_reset/{email}
+2024-04-10T19:25:06.024432-0400 - core.events - INFO - Route: /users/me/
+2024-04-10T19:25:06.024476-0400 - core.events - INFO - Route: /users/
+2024-04-10T19:25:06.024519-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:06.024564-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:06.024611-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:06.024656-0400 - core.events - INFO - Route: /users/current/
+2024-04-10T19:25:06.024700-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:06.024744-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:06.024788-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:06.024831-0400 - core.events - INFO - Route: /health
+2024-04-10T19:25:06.024876-0400 - core.events - INFO - Route: /
+2024-04-10T19:25:36.576522-0400 - core.events - INFO - Disconnected from the database.
+2024-04-10T19:25:40.193921-0400 - core.events - INFO - Connected to the database: bra_v1_db
+2024-04-10T19:25:40.194231-0400 - core.events - INFO - Tables in the database: ['users', 'profiles', 'renters', 'books', 'book_lists', 'rentals']
+2024-04-10T19:25:40.194294-0400 - core.events - INFO - Route: /openapi.json
+2024-04-10T19:25:40.194345-0400 - core.events - INFO - Route: /docs
+2024-04-10T19:25:40.194393-0400 - core.events - INFO - Route: /docs/oauth2-redirect
+2024-04-10T19:25:40.194438-0400 - core.events - INFO - Route: /redoc
+2024-04-10T19:25:40.194483-0400 - core.events - INFO - Route: /register
+2024-04-10T19:25:40.194527-0400 - core.events - INFO - Route: /token
+2024-04-10T19:25:40.194570-0400 - core.events - INFO - Route: /password_reset/{email}
+2024-04-10T19:25:40.194613-0400 - core.events - INFO - Route: /users/me/
+2024-04-10T19:25:40.194677-0400 - core.events - INFO - Route: /users/
+2024-04-10T19:25:40.194718-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:40.194757-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:40.194797-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:25:40.194835-0400 - core.events - INFO - Route: /users/current/
+2024-04-10T19:25:40.194874-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:40.194913-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:40.194952-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:25:40.194990-0400 - core.events - INFO - Route: /health
+2024-04-10T19:25:40.195029-0400 - core.events - INFO - Route: /
+2024-04-10T19:35:55.344627-0400 - core.events - INFO - Disconnected from the database.
+2024-04-10T19:35:57.463909-0400 - core.events - INFO - Connected to the database: bra_v1_db
+2024-04-10T19:35:57.464420-0400 - core.events - INFO - Tables in the database: ['users', 'profiles', 'renters', 'books', 'book_lists', 'rentals']
+2024-04-10T19:35:57.464491-0400 - core.events - INFO - Route: /openapi.json
+2024-04-10T19:35:57.464545-0400 - core.events - INFO - Route: /docs
+2024-04-10T19:35:57.464593-0400 - core.events - INFO - Route: /docs/oauth2-redirect
+2024-04-10T19:35:57.464639-0400 - core.events - INFO - Route: /redoc
+2024-04-10T19:35:57.464686-0400 - core.events - INFO - Route: /register
+2024-04-10T19:35:57.464732-0400 - core.events - INFO - Route: /token
+2024-04-10T19:35:57.464777-0400 - core.events - INFO - Route: /password_reset/{email}
+2024-04-10T19:35:57.464821-0400 - core.events - INFO - Route: /users/me/
+2024-04-10T19:35:57.464865-0400 - core.events - INFO - Route: /users/
+2024-04-10T19:35:57.464910-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:35:57.464954-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:35:57.464999-0400 - core.events - INFO - Route: /users/{user_id}
+2024-04-10T19:35:57.465043-0400 - core.events - INFO - Route: /users/current/
+2024-04-10T19:35:57.465088-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:35:57.465135-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:35:57.465180-0400 - core.events - INFO - Route: /users/me/profile
+2024-04-10T19:35:57.465223-0400 - core.events - INFO - Route: /health
+2024-04-10T19:35:57.465267-0400 - core.events - INFO - Route: /
+2024-04-10T19:51:43.172483-0400 - core.events - INFO - Disconnected from the database.
+2024-04-10T20:55:34.064861-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: 881a4f2e-d61e-42ef-b229-aba3c0a97a67, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(1) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 1, 'book_id': 10, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-04-10T20:59:10.918552-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: f0a14a38-d925-4b62-82d6-55157b1be24f, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(1) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 1, 'book_id': 1, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-04-10T21:05:24.247950-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: 9ec851b3-b110-4b58-adc5-1ded64c3d811, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(2) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 2, 'book_id': 1, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)

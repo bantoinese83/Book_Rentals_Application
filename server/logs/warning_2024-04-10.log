@@ -1,0 +1,18 @@
+2024-04-10T20:55:34.064861-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: 881a4f2e-d61e-42ef-b229-aba3c0a97a67, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(1) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 1, 'book_id': 10, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-04-10T20:59:10.918552-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: f0a14a38-d925-4b62-82d6-55157b1be24f, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(1) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 1, 'book_id': 1, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-04-10T21:05:24.247950-0400 - exceptions.exception_handler - ERROR - Database error occurred. Error ID: 9ec851b3-b110-4b58-adc5-1ded64c3d811, Details: (psycopg2.errors.ForeignKeyViolation) insert or update on table "rentals" violates foreign key constraint "rentals_renter_id_fkey"
+DETAIL:  Key (renter_id)=(2) is not present in table "renters".
+
+[SQL: INSERT INTO rentals (renter_id, book_id, return_date) VALUES (%(renter_id)s, %(book_id)s, %(return_date)s) RETURNING rentals.id, rentals.rental_date]
+[parameters: {'renter_id': 2, 'book_id': 1, 'return_date': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
