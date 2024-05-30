@@ -21,8 +21,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository: git clone https://github.com/bantoinese83/Book_Rentals_Application.git
 2. Change into the project directory: cd server
-3. Install the dependencies: pip install -r requirements.txt
-4. Run the application: python main.py
+3. Install the dependencies: 
+```bash
+pip install -r requirements.txt
+   ```
+- Run the application: 
+```bash
+python main.py
+
+```
+
 5. Access the application at http://localhost:5000
 6. Access the API documentation at http://localhost:5000/docs
 
