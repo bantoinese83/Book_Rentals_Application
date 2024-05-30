@@ -1,4 +1,4 @@
-# Book Rentals Application
+# Book Rentals Application Server
 
 This application is a library management system that allows users to rent and return books.
 
