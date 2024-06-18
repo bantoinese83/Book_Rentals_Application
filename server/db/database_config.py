@@ -12,7 +12,7 @@ from models.rental import Rental
 
 from db.base import Base
 
-DATABASE_URL = "postgresql://root:letmeinnow@localhost:5432/bra_v1_db"
+DATABASE_URL = "postgresql://:@localhost:5432/_db"
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
